@@ -1,0 +1,14 @@
+.mb-6 {
+	margin-bottom: 5rem!important;
+}
+.mb-7 {
+	margin-bottom: 6rem!important;
+}
+
+.carousel-item {
+	height: 500px;
+}
+
+.footertypo { 
+	font-family: 'Bellota', cursive;
+}
